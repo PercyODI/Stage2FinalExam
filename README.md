@@ -32,7 +32,7 @@ Because this is a technical presentation, please assume your audience knows tech
 
 ### Rubric for the panel:
 
-| Criteria | 5 - Expert | 3 - Apprentice | 1 - Novice | 
+| Criteria | 5 - Exceeds Standard | 3 - Meets Standard | 1 - Below Standard | 
 |---|---|---|---|
 | **Content** | - Addresses all specified content areas.<br> - Material abundantly supports the topic.<br> - Use of engineering terms and jargon matches audience knowledge level.  | -  Addresses most content areas. <br> -  Material sufficiently supports the topic. <br> -  Use of engineering terms and jargon mostly matches audience knowledge level. | - Addresses few of the content areas. <br> -  Material does not support the topic. <br> -  Use of engineering terms and jargon does not match audience knowledge level.
 | **Visuals** | - Text is easily readable.<br> -  Graphics use constantly supports the presentation.<br> -  Slide composition has a professional look that enhances the presentation. | -  Text is readable.<br> -  Graphics use mostly supports the presentation.<br> -  Slide composition is not visually appealing, but does not detract from the presentation. | -  Text is not readable.<br> -  Graphics use does not support the presentation.<br> -  Slide composition format is clearly distracting, obscuring the presentation. 
@@ -61,7 +61,7 @@ Your final version will be uploaded to GitHub, but should only need to work loca
 
 You will be graded on the following rubric:
 
-| Criteria | 5 - Expert | 3 - Apprentice | 1 - Novice | 
+| Criteria | 5 - Exceeds Standard | 3 - Meets Standard | 1 - Below Standard | 
 |---|---|---|---|
 | **Fulfilled Requirement** | - New feature implemented in many different use cases | - New feature implemented for at least one specific use case | - New feature not implemented |
 | **Bugs** | - All bugs removed from all layers<br> - No new bugs introduced with new feature | - Some pre-existing bugs remain in code<br> - Minor bugs introduced in implementing required feature | - Major bugs apparent in code
