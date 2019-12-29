@@ -22,7 +22,7 @@ As a group, you will present the GrillBer app to our shareholders. This presenta
 
 ### Timing
 
-This presentation shouldn't last longer than 20 minutes. Use your time wisely; hit all the highlights
+This presentation shouldn't last longer than 20 minutes. Use your time wisely; hit all the highlights.
 
 ### Audience
 
@@ -53,7 +53,7 @@ The second part of the Final Exam will be done individually. You will be given t
     - C#
     - WebAPI
 - Data Layer
-    - Connection to database
+    - Database file using LiteDB Engine
 
 You will then be given a new requirement for this application. You will be expected to implement the new application, making changes at every layer that requires it. There may also be bugs in the existing code that may need to be solved in order to meet the new requirements.
 
@@ -63,8 +63,8 @@ You will be graded on the following rubric:
 
 | Criteria | 5 - Exceeds Standard | 3 - Meets Standard | 1 - Below Standard | 
 |---|---|---|---|
-| **Fulfilled Requirement** | - New feature implemented in many different use cases | - New feature implemented for at least one specific use case | - New feature not implemented |
-| **Bugs** | - All bugs removed from all layers<br> - No new bugs introduced with new feature | - Some pre-existing bugs remain in code<br> - Minor bugs introduced in implementing required feature | - Major bugs apparent in code
-| **Front-End** | - Front-end looks visually pleasing<br> - Page is responsive<br> - User interactivity is easy to use<br> - Excellent use of HTML/CSS<br> - Excellent use of JavaScript and jQuery | - Front-end contains minimal visually un-attractive elements<br> - Page is fairly responsive, but with some lag<br> - User interactivity present, but with unexpected quirks<br> - Working HTML/CSS, but unexpected usages<br> - Working JavaScript and jQuery, but unexpected usages<br> | - Front-End is visually unpleasant<br> - Page is not responsive, user has lots of unexpected wait times<br> - User interactivity is non-existent<br> - Broken HTML/CSS<br> - Broken JavaScript or jQuery
-| **Back-End** | - Excellent use of C# and WebAPI<br> - API endpoints make excellent use of entities and make sense<br> - API is responsive | - Working C# and WebAPI, but unexpected usages<br> - API endpoints use entities<br> - API endpoints take some explanation to make sense<br> - API experiences occasional unexpected lag | - Broken C#/WebAPI<br> - API endpoints don't use meaning entities<br> - API endpoints don't make sense<br> - API experiences unexpected lag
-| **Database** | - Columns use appropriate data types | - Columns use data types that technically work | - Columns use inappropriate data types that won't work
+| **Fulfilled Requirement** | - All requirements fulfilled<br> - New features implemented in many different use cases | -Top Priority requirement fulfilled, and some of the other requirements fulfilled<br> - New features implemented for at least one specific use case | - None of the requirements fulfilled<br> - New features not implemented |
+| **Bugs** | - All bugs removed from all layers<br> - No new bugs introduced with new features | - Some pre-existing bugs remain in code<br> - Minor bugs introduced in implementing required features | - Major bugs apparent in code
+| **Front-End** | - Front-end looks visually pleasing<br> - Page is responsive<br> - User interactivity is easy to use<br> - Excellent use of HTML/CSS<br> - Excellent use of JavaScript and jQuery | - Front-end contains minimal visually un-attractive elements<br> - Page is fairly responsive, but with some lag<br> - User interactivity present, but with unexpected quirks<br> - Working HTML/CSS, but with strange syntax or formatting<br> - Working JavaScript and jQuery, but with strange syntax or formatting<br> | - Front-End is visually unpleasant<br> - Page is not responsive, user has lots of unexpected wait times<br> - User interactivity is non-existent<br> - Broken HTML/CSS<br> - Broken JavaScript or jQuery
+| **Back-End** | - Excellent use of C# and WebAPI<br> - API endpoints make excellent use of entities and make sense<br> - API is responsive | - Working C# and WebAPI, but with strange syntax or formatting<br> - API endpoints use entities<br> - API endpoints take some explanation to make sense<br> - API experiences occasional unexpected lag | - Broken C#/WebAPI<br> - API endpoints don't use meaning entities<br> - API endpoints don't make sense<br> - API experiences unexpected lag
+| **Database** | - Database file includes all new data requirements<br> - Datafile contains no bad records | - Database file contains some of the new data requirements<br> - Database file includes some bad records | - Database file was not updated to match new data requirements<br> - Database file is unusable with application (application breaks because of the data)
