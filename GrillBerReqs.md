@@ -54,6 +54,10 @@ That's where GrillBer comes in! GrillBer is a rental and delivery service for gr
 Notes from stakeholders:
 
 - Great work on starting a list of issues that can be worked through!
+    - The product teams are a little confused by the issues. They don't state what is required to "finish" an issue, it just has a title.
+        - https://www.productplan.com/glossary/acceptance-criteria/
+        - Consider adding user stories so we understand why this issue is needed
+        - Consider adding acceptance criteria so we understand what needs to happen to accept the issue
 - The back-end is off to a good start! Excellent work getting the ERD put together!
 - Stakeholders are meeting with investors next Friday (Feb 14). They have asked for a front-end that they can show to the investors
     - The front-end must be working and dynamic
