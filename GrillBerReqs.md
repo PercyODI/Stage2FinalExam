@@ -48,3 +48,14 @@ That's where GrillBer comes in! GrillBer is a rental and delivery service for gr
 - Create initial ERD for models
 - Create README.md at root of repo
     - Include description of application and instructions on running app
+    
+## February 7 Update
+
+Notes from stakeholders:
+
+- Great work on starting a list of issues that can be worked through!
+- The back-end is off to a good start! Excellent work getting the ERD put together!
+- Stakeholders are meeting with investors next Friday (Feb 14). They have asked for a front-end that they can show to the investors
+    - The front-end must be working and dynamic
+    - The front-end can use fake data if the back-end doesn't support a process or entity yet
+    - The front-end must be bug free and not throw errors so it can be demo'd cleanly
